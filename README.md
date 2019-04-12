@@ -28,15 +28,13 @@ I followed the MIT curriculum and replaced the courses that are not provided at 
 6.006 Introduction to Algorithms
   - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 
-6.009 Fundamentals of Programming => CS 61B
-  - 
+6.009 Fundamentals of Programming => CS 61B (from UCB)
+  - https://sp19.datastructur.es/
 
 ### Header
 6.031 Software Construction
-  - 
 
 6.033 Computer System Engineering
-  -
 
 6.046 Design and Analysis of Algorithms
   - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
