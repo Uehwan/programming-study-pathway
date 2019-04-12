@@ -9,22 +9,32 @@ I followed the MIT curriculum and replaced the courses that are not provided at 
 
 ### Intro & Math
 6.01 Introduction to EE and CS
+
 6.0001 Introduction to Computer Science and Programming in Python => CS 61A
+
 6.042 Math for CS
 
 ### Foundations
 6.004 Computation Structures
+
 6.006 Introduction to Algorithms
+
 6.009 Fundamentals of Programming => CS 61B
 
 ### Header
 6.031 Software Construction
+
 6.033 Computer System Engineering => 15-213 & 14-740 (CMU)
+
 6.046 Design and Analysis of Algorithms
-(Done) 6.034/036 Introduction to A.I./Machine Learning => Stanford CS 229, Berkeley CS 188
+
+6.034/036 Introduction to A.I./Machine Learning => Stanford CS 229, Berkeley CS 188
 
 ### Other
 6.UAT/6.UAR Tech Report for Layperson/Research
+
 Elective 1 6.828 OS
+
 Elective 2 6.858 Security
+
 Elective 3 CS 186 Intro to DB or CMU courses on DB or Programming language
