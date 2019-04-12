@@ -9,26 +9,40 @@ I followed the MIT curriculum and replaced the courses that are not provided at 
 
 ### Intro & Math
 6.01 Introduction to EE and CS
+  - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/
 
-6.0001 Introduction to Computer Science and Programming in Python => CS 61A
+6.0001 Introduction to Computer Science and Programming in Python
+  - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+  
+6.0002 Introduction to Computational Thinking and Data Science
+  - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm
 
 6.042 Math for CS
+  - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
 
 ### Foundations
 6.004 Computation Structures
+  - Lecture Video: https://www.youtube.com/user/Cjtatmitdotedu/videos
+  - Lecture Materials: https://computationstructures.org/
 
 6.006 Introduction to Algorithms
+  - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 
 6.009 Fundamentals of Programming => CS 61B
+  - 
 
 ### Header
 6.031 Software Construction
+  - 
 
-6.033 Computer System Engineering => 15-213 & 14-740 (CMU)
+6.033 Computer System Engineering
+  -
 
 6.046 Design and Analysis of Algorithms
+  - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
 
 6.034/036 Introduction to A.I./Machine Learning => Stanford CS 229, Berkeley CS 188
+  - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010
 
 ### Other
 6.UAT/6.UAR Tech Report for Layperson/Research
